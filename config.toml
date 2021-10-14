@@ -94,7 +94,7 @@ theme = "loveit"
   # Social config about the author
   [params.social]
     Twitter = "amamu.io"
-    Gitlab = "https://gitlab.com/a4115"
+    Gitlab = "a4115"
     Mastodon = ""
     Email = "info@amamu.io"
     RSS = true # LoveIt NEW | 0.2.0
