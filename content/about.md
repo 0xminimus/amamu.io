@@ -1,7 +1,6 @@
 ---
 title: AMAMU
 ---
-Stake away
 
 # What is amamu?
 

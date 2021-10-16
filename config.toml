@@ -75,7 +75,7 @@ theme = "loveit"
       # LoveIt CHANGED | 0.2.7 title shown in home page (HTML format is supported)
       title = "amamu.io"
       # subtitle shown in home page
-      subtitle = "stake away"
+      subtitle = "feeding the chain, staking the change"
       # whether to use typeit animation for subtitle
       typeit = true
       # whether to show social links
@@ -93,7 +93,7 @@ theme = "loveit"
 
   # Social config about the author
   [params.social]
-    Twitter = "amamu.io"
+    Twitter = "amamu_io"
     Gitlab = "a4115"
     Mastodon = ""
     Email = "info@amamu.io"
