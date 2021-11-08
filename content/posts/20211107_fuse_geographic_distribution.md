@@ -4,8 +4,6 @@ date: 2021-11-07
 draft: false
 ---
 
-# It’s not only about the number of validators
-
 At Amamu we are strong advocates of consensus based on the Proof of Stake. We believe that it is a very effective mechanism to encourage the decentralization of networks, one of the essential legs on which blockchain technology must be based.
 
 In this regard, voices are often heard defending the importance of networks having a good number of validation nodes and that the staking has to be distributed as evenly as possible among all of them. There are several ways to calculate this. Probably one of the most widely used is the Nakamoto Coefficient, with which we can calculate the danger of a network collapsing due to an excessive accumulation of staking in the hands of a few. In short, the Nakamoto coefficient is the number of entities you need to compromise at least one essential subsystem. If you want to know more about the Nakamoto Coefficient you can read this great [article](https://news.earn.com/quantifying-decentralization-e39db233c28e) by [Balaji](https://twitter.com/balajis/status/1334388563832496130?s=20) and Leland Lee.
